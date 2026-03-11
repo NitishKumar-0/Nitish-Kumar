@@ -1,1 +1,1 @@
-## Thsi is my Resume
+## This is my Resume
