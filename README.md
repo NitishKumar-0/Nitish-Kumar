@@ -9,9 +9,9 @@ I am passionate about coding, software development, and building useful applicat
 ## Skills
 
 - C++
-
+- JAVA
 - Data Structures and Algorithms
-
+- HTML,CSS,JAVASCRIPT
 - React
 
 
